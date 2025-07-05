@@ -18,3 +18,14 @@ font-family: 'Times New Roman', Times, serif;
 color:bisque;
 padding-left: 10px;
 }
+.btn {
+padding-right: 100px;
+text-align: right;
+}
+.bn{
+padding: 15px 30px;
+font-size: 15px;
+color: white;
+background: rgba(255, 255, 255, 0.2);
+cursor: pointer;
+}

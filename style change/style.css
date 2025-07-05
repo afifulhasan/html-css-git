@@ -3,6 +3,18 @@
 font-family: 'Times New Roman', Times, serif;
     text-align:left; 
     line-height: 5px;
-    padding-top: 100px;
-    padding-left: 20px;
-    margin-top: 50px;}
+    padding-top: 40px;
+    padding-left: 10px;
+    margin-top: 100px;
+    }
+h1{
+
+    color: rgb(255, 141, 2);
+}
+h4{color: white;}
+h2{color: white;}
+.leg{
+font-family: 'Times New Roman', Times, serif;
+color:bisque;
+padding-left: 10px;
+}

@@ -1,7 +1,13 @@
+.img {
+background-image: url();
+
+}
+
 .head {
 font-family: 'Times New Roman', Times, serif;
-    text-align:center; 
-    line-height: 0;
-    padding-inline: 30px;
+    text-align:left; 
+    line-height: 5px;
+    padding-top: 100px;
+    padding-left: 20px;
     margin-top: 50px;
 }
